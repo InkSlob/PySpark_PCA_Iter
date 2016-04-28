@@ -1,0 +1,19 @@
+CS 724 
+Jesse Wright
+Final Project
+PCA using Power Iteration
+
+Considers stocks 12 columns by 3993 rows
+
+To Run:
+This program was generated on Jesse's home computer using the 
+vagrant spark virtual box.  It runs on a python notebook.
+
+"Z_data.csv" must be in same folder as python file to run.
+
+open and run "PCA_iter.py"  or "PCA_iter.ipynb" if using vagrant.
+
+Run and for vagrant "PCA_iter_out.txt" folderwill be created
+Inside this folder the data will be located.
+
+For graphical analysis run "PCA.ipynb"  this uses pyplot.
